@@ -1,6 +1,10 @@
 import pandas as pd
 from datetime import date
 
+#TODO:  Error handling
+#TODO:  Add in arguments for file export type
+#TODO:  Add a date column of the pull date to the dataframe
+
 #where our data is located
 URL = 'https://www.worldometers.info/coronavirus/#countries'
 
